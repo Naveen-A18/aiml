@@ -39,7 +39,7 @@ I am targeting **top-tier roles (30+ LPA)** which require excellent fundamentals
 ---
 
 ## 🛠 Technologies & Tools  
-- **Python 3.x**  
+- **Python 3.x**   
 - VS Code / PyCharm  
 - Jupyter Notebook (optional)  
 - Git & GitHub  
