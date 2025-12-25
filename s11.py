@@ -15,6 +15,5 @@ sqrt1 = num**0.5
 sqrt2 = num2**0.5
 
 print(sqrt1 * sqrt1 == num)
-
 print(sqrt2 * sqrt2 == num2)
 print("program executed") 
