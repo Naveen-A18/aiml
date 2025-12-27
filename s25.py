@@ -37,3 +37,9 @@ print("The average is:", avg)
 a =int(input("enter the number: "))
 print("the squre root of the number is:", a**0.5)
 
+print("Enter two numbers:")
+x = int(input())
+y = int(input())
+remainder = x % y
+print("The remainder is:", remainder)
+
